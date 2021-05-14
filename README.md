@@ -1,4 +1,4 @@
-# Mining_Massive_Datasets_2
+# MinHasing, LSH, Brute Force
 
 **Data**
 
